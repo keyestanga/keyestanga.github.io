@@ -1,0 +1,27 @@
+body{
+    font-size: 50px;
+
+    background-image: url("../images/heart-mussels.jpeg");
+    background-size: cover;
+}
+
+
+
+h1{
+  color: #D1F3F0;
+  font-size: 2em;
+  font-family: 'Lobster', cursive;
+  text-align: right;
+}
+h2{
+  color: #D1F3F0;
+  font-family: 'Lobster', cursive;
+  font-size: 0.8em;
+  text-align: right;
+
+
+}
+p{
+  font-family: 'Playfair Display', serif;
+  font-size: 0.5em;
+}
