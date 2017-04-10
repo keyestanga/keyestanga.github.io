@@ -1,27 +1,52 @@
 body{
     font-size: 50px;
-
     background-image: url("../images/heart-mussels.jpeg");
-    background-size: cover;
-}
-
-
-
+    background-size: 1700px;
+    }
 h1{
   color: #D1F3F0;
+  background-color: #D01FDE;
   font-size: 2em;
   font-family: 'Lobster', cursive;
-  text-align: right;
+  text-align: center;
+}
+ul{
+  color: #D1F3F0;
+  font-family: 'Lobster', cursive;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+#mis-enlaces{
+  background-color: #0A9483;
+  width: 50%;
+  margin-left: 320px;
+}
+
+#yo-imagen{
+  border:  8px ridge white;
 }
 h2{
   color: #D1F3F0;
+  background-color: #D01FDE;
   font-family: 'Lobster', cursive;
   font-size: 0.8em;
   text-align: right;
 
+}
 
+h3{
+  color: #D1F3F0;
+  background-color: #D01FDE;
+  font-family: 'Lobster', cursive;
+  font-size: 0.8em;
+  text-align: right;
 }
 p{
-  font-family: 'Playfair Display', serif;
+  color: #D1F3F0;
+  background-color: #0A9483;
+  font-family: 'Playfair Display',cursive;
+  font-weight: bold;
   font-size: 0.5em;
+  text-align: center;
 }
